@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+  body {
+    height: 100vh;
+    background-color:#FFFFFF ;
+    font-family: 'Sora', sans-serif;
+    
+  }
+
+  .author-info {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 16px;
+    color: rgb(55, 65, 81);
+    margin-top: 100px;
+  }
+
+  .author-info a {
+    text-decoration: none;
+  }
+.container{
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    margin: 0 auto;
+    background-color: #FAFAF9;
+    width: 400px;
+    height: 400px;
+    padding: 16px;
+    margin-top: 164px;
+    border-radius: 10px;
+}
+img{
+  width: 100%;
+  border-radius: 10px;
+}
+h2{
+  font-size: 18px;
+  margin-bottom: 6px;
+}
+.design{
+  font-size: 10px;
+  color: #7C19EE;
+  background-color: #E5EAF0;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  height: 25px;
+  border-radius: 20px;
+  width: 20%;
+  text-align: center;
+  font-weight: bold;
+  padding: 6px;
+}
+p{
+  color: #394150;
+  margin-bottom: 20px;
+}
+.annie{
+  border-top: 1px solid #E5EAF0;
+  padding-top: 16px;
+}
